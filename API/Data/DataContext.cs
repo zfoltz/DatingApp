@@ -12,3 +12,10 @@ namespace API.Data
         public DbSet<AppUser> Users { get; set; }
     }
 }
+
+//    public class AppUser
+//    {
+//        public int Id { get; set; }
+//       
+//        public string UserName { get; set; }
+//    }
